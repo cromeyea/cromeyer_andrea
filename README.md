@@ -1,2 +1,1 @@
-This is a READ me Test
-
+This is a README file
